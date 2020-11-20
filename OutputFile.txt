@@ -1,0 +1,1 @@
+Company{companyName='CompanyOfComp', abbreviation='COC', updateDate=Sat Sep 19 00:00:00 MSK 2015, address='Masherova 13', foundationDate=Thu Mar 01 00:00:00 MSK 1990, numberOfEmployees=130, auditor='Yankov Yan', phoneNumber='+375296562387', email='yankov@gmail.com', industry='Computers', typeOfBusiness='IT', link='www.make_computer/make_good.com'},

@@ -1,0 +1,3 @@
+CompanyOfComp;COC;19.09.2015;Masherova 13;01.03.1990;130;Yankov Yan;+375296562387;yankov@gmail.com;Computers;IT;www.make_computer/make_good.com;
+AlcoholLoveChild;ALC;31.05.2007;Nemiga 3;02.01.2000;42;Martinov Ashan;+375335639536;lovemartini@mail.ru;Alcohol;industry;www.make/alcohol.com;
+TennisSport;TS;01.08.2002;Kozlova 28;09.03.1989;123;Sergeev Sergey;+375296483521;sergtennis@gmail.com;Sport;Tennis;www.play_tennis/be_strong.org
